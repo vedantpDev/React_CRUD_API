@@ -29,7 +29,7 @@ const UpdateData = (props) => {
         </Modal.Header>
         <Modal.Body>
           <Form>
-            <Form.Group className="mb-3">
+            <Form.Group className="mb-3 ">
               <Form.Label>Name</Form.Label>
               <Form.Control
                 type="name"
