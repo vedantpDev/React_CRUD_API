@@ -1,0 +1,13 @@
+.container-main {
+  height: 601px;
+  background-color: white;
+}
+
+.main-div {
+  margin: auto;
+  text-align: center;
+  justify-content: center;
+  width: 98%;
+  border: 3px solid rgb(0, 0, 0);
+  padding: 10px;
+}
